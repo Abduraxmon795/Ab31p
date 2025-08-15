@@ -1,0 +1,21 @@
+h1{
+    font-weight: 900;
+    font-size: 50px;
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+}
+img{
+    border-radius: 15px;
+    width: 400px;
+    height: 200px;
+}
+.rasm{
+    width: 400px;
+    height: 200px;
+}
+.contenr{
+    background-color: black;
+    color: antiquewhite;
+    padding-left: 700px;
+}
